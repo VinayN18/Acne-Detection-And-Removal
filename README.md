@@ -30,5 +30,5 @@ We can run all the cells in the colab file with copying the dataset from the giv
 ![Final-Image-using-Opencv](https://github.com/VinayN18/Acne-Detection-And-Removal/assets/114673422/d8402885-d92c-457d-8d12-6b5b307f6b7b)
 
 
-#### --> Method 2 (Deep Image Priop - Using UNet CNN Model)
+#### --> Method 2 (Deep Image Prior - Using UNet CNN Model)
 ![Final-image-using-Unet](https://github.com/VinayN18/Acne-Detection-And-Removal/assets/114673422/1e2ae742-0ab1-4a1d-a996-99cede6ee974)
